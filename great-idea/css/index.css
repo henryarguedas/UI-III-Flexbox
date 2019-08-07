@@ -272,14 +272,12 @@ h1, h2, h3, h4, h5 {
 }
 
 .top-articles {
-	width: 410px;
-	display: inline-block;
+	display: flex;
 	margin-right: 35px;
 }
 
 .bottom-articles {
-	width: 275px;
-	display: inline-block;
+	display: flex;
 	margin-right: 12px;
 }
 
@@ -304,8 +302,11 @@ footer {
 
 
 .copywrite {
-	text-align: center;
+	display: flex;
+	justify-content: center;
+	/* text-align: center; */
 }
 
 .address {
 }
+
