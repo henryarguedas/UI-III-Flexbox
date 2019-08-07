@@ -201,7 +201,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .logo {
-	border: 2px solid yellow;
+	border: 2px solid rgb(14, 248, 170);
 }
 
 /* .logo-div {
@@ -341,7 +341,7 @@ h2 {
 }
 
 .bottom-article-services {
-	border: 2px solid yellow;
+	border: 2px solid magenta;
 	padding: 10px;
 	margin: 12px;
 }
