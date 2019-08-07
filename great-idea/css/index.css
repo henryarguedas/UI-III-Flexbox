@@ -307,3 +307,51 @@ footer {
 	/* text-align: center; */
 }
 
+.middle-section-services {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.services-middle-article {
+	border: 2px solid blue;
+	width: 48%;
+	padding: 5px;
+	background-color: #E9ECF5;
+	
+}
+.services-middle-article p {
+	margin: 12px;
+	
+}
+
+h2 {
+	margin-top: 5px;
+}
+
+.middle-section-services {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.bottom-section-services {
+	border: 2px solid red;
+	display: flex;
+	
+}
+
+.bottom-article-services {
+	border: 2px solid yellow;
+	padding: 10px;
+	margin: 12px;
+}
+
+.container {
+	border: 2px solid cornflowerblue
+}
+
+ul {
+	list-style-type: square;
+	list-style-position: inside;
+}
+
